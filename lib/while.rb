@@ -8,5 +8,3 @@ def using_while
 using_while
 	#your code here
 end
-
-
